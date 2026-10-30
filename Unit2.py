@@ -1,7 +1,3 @@
-import string
-from collections import Counter
-
-
 def most_common_word(text):
     """
     Возвращает самое часто встречающееся слово в строке.

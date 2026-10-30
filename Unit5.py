@@ -1,6 +1,3 @@
-from collections import defaultdict
-
-
 def group_anagrams(words):
     """
     Группирует слова, являющиеся анаграммами друг друга.
